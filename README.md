@@ -1,6 +1,2 @@
 # final-project
-Isuru Herath (ish9)
-Krupa Sekhar (kcs76)
-Mith Patel (mpp59)
-
-- Much of the codebase structure was reproduced from that of A1: Enigma.
+This project was a final project I worked on with two other team members in CS 3110. I worked on gui functionality, tests, the add function, and json related functions. Please see the install file for details on running the todo list!
