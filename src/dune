@@ -1,0 +1,4 @@
+(library
+ (name todolist)
+ (public_name Todolist)
+ (libraries graphics yojson ANSITerminal str))
